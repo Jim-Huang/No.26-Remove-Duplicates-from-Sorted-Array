@@ -1,0 +1,8 @@
+/*題目為"排序"後的陣列，因此只需要判斷前後項是否重複，而無須擔心有[1,2,2,1]情形*/
+class Solution {
+    public int removeDuplicates(int[] nums) {
+        for(int i = 0; i < nums.length-1; i++){
+            
+        }
+    }
+}
